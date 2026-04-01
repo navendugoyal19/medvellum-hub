@@ -1,0 +1,35 @@
+# MedVellum Video Catalog - Chunk 1
+
+This document contains videos 1-29 from the MedVellum YouTube channel.
+
+## Videos
+
+- [How ADHD Actually Works](https://www.youtube.com/watch?v=YtvbrgO_8Pw)
+- [How Dementia Actually Progresses](https://www.youtube.com/watch?v=arqBm6Gyxs4)
+- [How Fatty Liver Becomes Dangerous](https://www.youtube.com/watch?v=tLMSCNouhMo)
+- [How Sepsis Actually Kills](https://www.youtube.com/watch?v=acj0Z8Mb5CY)
+- [Why Acid Reflux Happens](https://www.youtube.com/watch?v=Ep5akQGwXn4)
+- [What Actually Happens During a Kidney Stone](https://www.youtube.com/watch?v=T-zhMnFQmzo)
+- [What Actually Happens During a Migraine](https://www.youtube.com/watch?v=Y5a-3jK3yCk)
+- [How Cholesterol Actually Clogs Your Arteries](https://www.youtube.com/watch?v=6mwCcO_LLpI)
+- [How A Heart Attack Actually Happens](https://www.youtube.com/watch?v=ralt9Pt7Pqg)
+- [How Pneumonia Actually Works](https://www.youtube.com/watch?v=xwb-QWKeUts)
+- [How Asthma Actually Works](https://www.youtube.com/watch?v=5JJuM1c18HI)
+- [How Allergies Actually Work](https://www.youtube.com/watch?v=Km2e88fLenk)
+- [What Actually Happens During a Stroke](https://www.youtube.com/watch?v=ZlCQZwCa8rI)
+- [How Your Kidneys Actually Work](https://www.youtube.com/watch?v=Jf7WmuuAwLs)
+- [What Actually Happens in Type 2 Diabetes](https://www.youtube.com/watch?v=fXZn9lZuTHw)
+- [Why Your Muscles Get Sore After Exercise (DOMS Explained)](https://www.youtube.com/watch?v=VzqEilExSkw)
+- [How Cancer Actually Starts — From a Single Mutation to Metastasis](https://www.youtube.com/watch?v=ohz1RTDIz3c)
+- [What Happens Inside Your Lungs When You Breathe](https://www.youtube.com/watch?v=bFdgNp_ehyQ)
+- [How Vaccines Actually Work](https://www.youtube.com/watch?v=As_6fA3NBjs)
+- [What Happens to Your Body During Sleep](https://www.youtube.com/watch?v=YEaHRpHwq88)
+- [How Your Immune System Actually Works](https://www.youtube.com/watch?v=sCsgHgtYrFM)
+- [What Actually Happens Under Anaesthesia?](https://www.youtube.com/watch?v=Mzk1CTlcacM)
+- [Why You Feel Pain — The Neuroscience Explained](https://www.youtube.com/watch?v=XXPhuO_n4Jg)
+- [What Happens Inside a Wound When It Heals?](https://www.youtube.com/watch?v=2iwtDKjMBvY)
+- [How Your Heart Actually Works](https://www.youtube.com/watch?v=S9WssRdt-vg)
+- [What Actually Happens When You Get a Fever?](https://www.youtube.com/watch?v=eqXuprsjSWU)
+- [What Actually Happens When You Break a Bone?](https://www.youtube.com/watch?v=rnw8CjaeU84)
+- [Distal Radius Fractures: The Complete Guide (Fellowship Review)](https://www.youtube.com/watch?v=V8bQtn9-3LY)
+- [Understanding Blood Pressure: The Ultimate Guide to Hypertension & Heart Health](https://www.youtube.com/watch?v=QZCnQdLVtUI)
